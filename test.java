@@ -6,4 +6,6 @@ feature 1 (branch)
 
 =======
 feature 2
->>>>>>> feature2
+ Adding new updated fetch with changes to this file .
+
+
